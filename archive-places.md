@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Путёвые заметки
+title: Езда
 which_category: скитания
 permalink: /archive-places/
 ---

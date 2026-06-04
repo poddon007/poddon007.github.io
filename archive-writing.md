@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Письмена
-which_category: письмена
+title: Текст
+which_category: текст
 permalink: /archive-writing/
 ---
