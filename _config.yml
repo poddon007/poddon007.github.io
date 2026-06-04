@@ -1,0 +1,30 @@
+title: Егор Быстранов # name of the site
+author: egorb # name of site's author
+email: egorbystranov@gmail.com # email of site's author
+url: https://poddon007.github.io # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  <p><a href="https://instagram.com/krivdaverlag">иnst</a> / <a href="https://youtube.com/channel/UCVINw4fq8FZlnthWZpzTbQg">youtьuб</a> / <a href="https://t.me/krivdaverlag">tелеgраm</a></p>
+
+permalink: /:slug.html
+
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
