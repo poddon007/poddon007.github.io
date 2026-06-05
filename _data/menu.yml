@@ -25,6 +25,14 @@ entries:
       show_more_text: остальное >>>
       show_more_url: /archive-pht/
 
+  - title: текст
+    post_list:
+      category: письмена
+      limit: 10
+      show_more: true
+      show_more_text: остальное >>>
+      show_more_url: /archive-writing/
+
   - title: мазня
     post_list:
       category: ort
@@ -33,13 +41,6 @@ entries:
       show_more_text: остальное >>>
       show_more_url: /archive-ort/
 
-  - title: текст
-    post_list:
-      category: письмена
-      limit: 10
-      show_more: true
-      show_more_text: остальное >>>
-      show_more_url: /archive-writing/
 
   - title: езда
     post_list:
