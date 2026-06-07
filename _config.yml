@@ -4,7 +4,7 @@ email: egorbystranov@gmail.com # email of site's author
 url: https://krivdaverlag.su # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <p><a href="https://instagram.com/krivdaverlag">иnst</a> / <a href="https://youtube.com/channel/UCVINw4fq8FZlnthWZpzTbQg">youtьuб</a> / <a href="https://t.me/krivdaverlag">tелеgраm</a></p><br />
+  <p><a href="https://instagram.com/krivdaverlag">иnst</a> / <a href="https://youtube.com/channel/UCVINw4fq8FZlnthWZpzTbQg">youtьuб</a> / <a href="https://t.me/krivdaverlag">tелеgраm</a></p>
   <br />
   <img
   class="fit-picture"
