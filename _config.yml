@@ -1,6 +1,6 @@
 title: Егор Быстранов # name of the site
 author: egorb # name of site's author
-email: egorbystranov@gmail.com # email of site's author
+email: egorb@krivdaverlag.su # email of site's author
 url: https://krivdaverlag.su # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
