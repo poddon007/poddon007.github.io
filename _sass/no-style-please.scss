@@ -26,6 +26,7 @@ html { height: 100%; }
 body {
   color: black;
   font-family: 'Literaturnaya';
+  text-align: justify;
   font-size: 20px;
   line-height: 1.4;
   margin: 0;
@@ -52,7 +53,7 @@ li { margin: 0.4rem 0; }
 }
 
 hr {
-  text-align: justify;
+  text-align: center;
   border: 0;
 
   &:before { content: '/////' }
